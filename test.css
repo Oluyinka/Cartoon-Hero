@@ -1,0 +1,24 @@
+body {background-color: lightgrey}
+
+
+
+	h2{color: yellow;
+		font-size: 50px;
+		text-decoration: unset; 
+	}
+
+	h1{color: red; 
+
+		font-size: 38px;}
+
+	h3{color: purple;font-size: 45px; text-decoration: line-through;}
+
+	.small{color: green; font-size: 55px; text-decoration: underline;}
+
+		
+		#first{color:purple; font-size: 30px;}
+
+
+		span{font-style: italic;}
+
+		h2 span{text-decoration: line-through;
