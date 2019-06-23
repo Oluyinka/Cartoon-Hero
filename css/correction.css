@@ -9,13 +9,17 @@ header{
 }
 
 h1{
-	font-size: 45px; color: #0fd808;}
+	font-size: 45px; color: #0fd808;
+text-shadow: 0 4px 10px black;
+margin: 0;
+}
 
 
 header img{
 	border-radius: 50%;
 	width: 150px;
-	border: 10px solid #0fd808;}
+	border: 10px solid #0fd808;
+box-shadow: 0 10px 10px black;}
 
 .content{
 	max-width: 900px;
@@ -40,7 +44,12 @@ padding: 0;
 margin: 10px;
 }
 
-a{color: blue;text-decoration: none;}
+a{color: white;text-decoration: none;
+background-color: blue;}
+
+a:hover{
+	background-color: red;
+}
 
 footer{padding: 20px 10px;background-color:#3feaba;
 color: black; margin-top: 10px;}
